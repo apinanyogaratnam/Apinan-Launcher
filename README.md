@@ -1,1 +1,1 @@
-# Chrome extension of Apinan (me) and his socials
+# Chrome extension of Apinan's Socials
